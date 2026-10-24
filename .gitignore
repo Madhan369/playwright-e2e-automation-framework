@@ -1,0 +1,16 @@
+# Environment & Secrets
+.env
+
+# Dependencies
+node_modules/
+
+# Playwright Artifacts
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Allure Reports & Results
+/allure-results/
+/allure-report/

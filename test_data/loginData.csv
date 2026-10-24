@@ -1,0 +1,5 @@
+Username,Password,Expected
+standard_user,secret_sauce,Products
+locked_out_user,secret_sauce,Locked out
+invalid_user,invalid_password,Invalid credentials
+standard_user,wrong_password,Invalid credentials
